@@ -4,7 +4,7 @@ In this project you can experiment with GraphQL queries and mutation
 
 
 install :
-npm i express express-graphql graphql
+npm i express express-graphql graphql </br>
 npx create-strapi-app my-project –quickstart
 
 port:
